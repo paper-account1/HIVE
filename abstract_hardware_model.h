@@ -30,6 +30,7 @@
 
 #include "./gpgpu-sim/header.h"
 
+
 #ifndef ABSTRACT_HARDWARE_MODEL_INCLUDED
 #define ABSTRACT_HARDWARE_MODEL_INCLUDED
 
