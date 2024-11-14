@@ -1,0 +1,32 @@
+#ifndef __HEADER__
+#define __HEADER__
+
+
+   
+   
+
+
+#define SUBCORE_DISPATCH 0
+
+
+#define PRINT_RESOURCE_USED_NOT_CONCURRENT_KERNEL 1 
+
+#define PRINT_RESOURCE_USED_CONCURRENT_KERNEL 0     
+
+            
+#define PRINTF_SUBCORE_ISSUE_STATE 0
+
+
+#define USE_QUARTER_CTA 0
+
+
+#define SHUFFLE_CTA_SCHEDULE 0
+
+
+#define SUBWARP_SCHEDULER 0
+
+
+
+
+#define REGISTER_LIVENESS 1
+#endif 
