@@ -12,6 +12,6 @@ make -j -C ./gpu-simulator/
 
 
 ## Step2
-Replace the contents of the `gpu-simulator/gpgpu-sim/src/` directory with the contents of this project and rerun the command in **step 1**. 
+Replace the contents of the `gpu-simulator/gpgpu-sim/src/` directory with the contents of this repository and rerun the command in **step 1**. 
 
 At this point, you will get the results of the modified architecture.
